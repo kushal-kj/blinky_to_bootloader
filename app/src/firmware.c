@@ -57,7 +57,6 @@ int main(void)
 			start_time = get_ticks();
 		}
 		
-
 	}
 	return 0;
 }
